@@ -1,4 +1,4 @@
-# topo
+# cdp_topo
 
 將cisco設備的terminal output轉換成topology的小工具
 內容必須包含show ip interface brief、show cdp neighbors
